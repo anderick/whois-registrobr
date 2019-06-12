@@ -1,4 +1,4 @@
-# WHOIS Reistro.BR
+# WHOIS Registro.BR
 
 This PoC of an UDP client to whois .br domains using Registro.BR whois server.
 
